@@ -1,0 +1,64 @@
+# Project Name
+
+Dopetrope HTML5 Template
+
+## Overview
+
+Welcome to Dopetrope, a responsive HTML5 template designed by HTML5 UP. This template is suitable for creating a personal or commercial website. It features a clean and modern design, along with various sections for showcasing your portfolio, writing blog posts, and providing information about your business or personal endeavors.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Sections](#sections)
+   - [Header Section](#header-section)
+   - [Body Section](#body-section)
+   - [Icon Section](#icon-section)
+   - [Portfolio Section](#portfolio-section)
+   - [Blog Section](#blog-section)
+   - [Footer Section](#footer-section)
+3. [Contact Information](#contact-information)
+4. [License](#license)
+
+## Introduction
+
+This repository contains the HTML and CSS files for the Dopetrope template. It serves as the main structure for a responsive and visually appealing website.
+
+## Sections
+
+### Header Section
+
+The header section contains the website title ("Dopetrope") and a navigation menu with options like Home, Dropdown, Left Sidebar, Right Sidebar, and No Sidebar.
+
+### Body Section
+
+This section includes a banner image and a welcome message. It serves as the main content area of the webpage.
+
+### Icon Section
+
+The Icon Section features three blocks, each with an icon, a header, and a paragraph. It is designed to highlight key features or services.
+
+### Portfolio Section
+
+The Portfolio Section showcases a collection of projects. Each project is presented in a card format with an image, title, description, and a "Find Out More" button.
+
+### Blog Section
+
+The Blog Section displays recent blog posts with images, titles, posting times, and introductory text. Each post has buttons for continuing reading and viewing comments.
+
+### Footer Section
+
+The Footer Section is divided into multiple columns, providing information about recent activities, the purpose of the website, and links to social media. It also includes contact information and copyright details.
+
+
+
+## Contact Information
+
+- **Address:** Untitled Incorporated, 1234 Somewhere Road Suite, Nashville, TN 00000-0000
+- **Mail:** [someone@untitled.tld](#)
+- **Phone:** (800) 000-0000
+
+## License
+
+This template is released under the Creative Commons Attribution license. Feel free to use it for any personal or commercial project, but remember to credit HTML5 UP.
+
+---
